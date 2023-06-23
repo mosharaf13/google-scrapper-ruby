@@ -5,6 +5,7 @@ on:
       - main
       - develop
       - chore/30-setup-cicd
+      - chore/30-setup-cicd-asset-test
 jobs:
   deploy:
     name: Deploy app
